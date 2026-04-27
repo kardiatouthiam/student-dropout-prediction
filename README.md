@@ -47,7 +47,7 @@ The project follows a complete data science pipeline:
 
 ### Confusion Matrix
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](student-dropout-prediction/Matrice_de_confusion.png)
 
 ---
 
