@@ -2,24 +2,24 @@
 
 ## 📌 Objective
 
-The goal of this project is to predict student dropout and academic success using statistical analysis and machine learning techniques. This helps identify students at risk and supports early intervention.
+This project aims to predict student dropout and academic success using machine learning and statistical techniques. The goal is to identify students at risk and support early intervention strategies.
 
 ---
 
 ## 📊 Dataset
 
-The dataset includes academic and behavioral features such as:
+The dataset includes several academic and behavioral features such as:
 
 * Study performance
 * Attendance
 * Academic history
-* Other relevant student indicators
+* Student engagement indicators
 
 ---
 
 ## ⚙️ Methodology
 
-The project follows these steps:
+The project follows a complete data science pipeline:
 
 * Data cleaning and preprocessing
 * Exploratory Data Analysis (EDA)
@@ -31,19 +31,21 @@ The project follows these steps:
 ## 🤖 Models Used
 
 * Logistic Regression
-* Random Forest 
+* Random Forest
 
 ---
 
 ## 📈 Results
 
-* The model is able to identify students at risk of dropout
-* Good overall prediction performance
-* Some errors occur on borderline cases
+* The model achieves good predictive performance
+* It successfully identifies most at-risk students
+* Some misclassifications occur for borderline cases
 
 ---
 
 ## 📊 Visualization
+
+### Confusion Matrix
 
 ![Confusion Matrix](confusion_matrix.png)
 
@@ -51,8 +53,8 @@ The project follows these steps:
 
 ## 🧠 Insights
 
-* Academic performance is a key factor in student success
-* Low engagement increases dropout risk
+* Academic performance is a key factor in student dropout
+* Low attendance significantly increases dropout risk
 * Early detection can help improve student retention
 
 ---
@@ -68,4 +70,5 @@ The project follows these steps:
 
 ## 🚀 Conclusion
 
-This project demonstrates how machine learning can be used to support decision-making in education and improve student outcomes.
+This project highlights how machine learning can be applied to educational data to improve decision-making and student success outcomes.
+
